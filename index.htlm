@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ungames</title>
+    <!-- Add any additional meta tags or stylesheets here -->
+</head>
+<body>
+
+    <header>
+        <h1>Ungames</h1>
+        <!-- Add any additional header content here -->
+    </header>
+
+    <main>
+        <p>Welcome Unblocked Nation.</p>
+        <!-- Add your project content here -->
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+        <!-- Add any additional footer content here -->
+    </footer>
+
+    <!-- Add any additional scripts or external resources here -->
+
+</body>
+</html>
